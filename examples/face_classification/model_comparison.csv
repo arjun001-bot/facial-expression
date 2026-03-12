@@ -1,0 +1,4 @@
+Model,Test Accuracy,Parameters,Training Time
+Baseline,66.93,3.9M,45 min
+Attention,58.71,4.2M,35 min
+Histogram,62.47,3.9M,35 min
